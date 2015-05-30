@@ -1,0 +1,3 @@
+[submodule "content/themes/casper-d"]
+	path = content/themes/casper-d
+	url = git@github.com:d6u/Casper.git
